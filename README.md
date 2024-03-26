@@ -1,5 +1,3 @@
-# DSND-Capstone
-
 # Bitcoin Price Prediction with LSTM
 
 ## Libraries Used
