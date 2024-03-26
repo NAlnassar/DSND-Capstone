@@ -23,7 +23,7 @@ Bitcoin, as a popular cryptocurrency, exhibits highly volatile price behavior, m
 - Description: HDF5 file containing the trained LSTM model's architecture and weights.
 - Usage: This file is used by `run_model.py` to load the trained model for making predictions.
 
-### 4. `Capstone_DS.pdf`
+### 4. `Capstone_DS_Report.pdf`
 - Description: PDF document providing detailed information about the project, including problem statement, data preprocessing steps, model architecture, training process, evaluation metrics, and conclusions.
 
 ## Summary of Results and Analysis
