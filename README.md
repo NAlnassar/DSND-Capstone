@@ -29,5 +29,10 @@ Bitcoin, as a popular cryptocurrency, exhibits highly volatile price behavior, m
 ## Summary of Results and Analysis
 The LSTM model demonstrated promising results in predicting Bitcoin prices. By analyzing the model's performance metrics and visualizing its predictions against actual price data, we observed significant accuracy in forecasting Bitcoin prices over different time periods.
 
+
+## Acknowledgements
+
+I would like to express my sincere gratitude to Udacity for providing an exceptional learning experience throughout the duration of this project. The structured curriculum, and insightful feedback has been amazing.
+
 ## Conclusion
 In conclusion, this project showcases the effectiveness of LSTM networks in Bitcoin price prediction tasks. Through thorough data preprocessing, model training, and evaluation, we successfully developed a robust model capable of capturing complex price patterns and making accurate predictions. The insights gained from this project can be valuable for investors and traders seeking to make informed decisions in the cryptocurrency market.
